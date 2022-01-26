@@ -1,0 +1,18 @@
+{
+    "name": "victo/fizz-buzz",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4" : {
+            "" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor",
+            "email": "victor.ledda.vic@gmail.com"
+        }
+    ]
+}
